@@ -4,7 +4,7 @@ ans1 = input("What language are we writing in?")
 if ans1 == "python":
   print("Correct")
 else:
-  print("Nope""")
+  print("Nope")
 
 ans2 = int(input("Which lesson number is this?"))
 if ans2 > 12:
