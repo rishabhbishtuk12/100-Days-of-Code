@@ -23,4 +23,4 @@ Here is a grading scale to help you decide the letter grade the user received (f
 | B        | 70-79    |
 | C        | 60-69    |
 | D        | 50-59    |
-| U        | Under 50 | 
+| U        | Under 50 |
