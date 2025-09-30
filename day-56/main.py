@@ -1,6 +1,6 @@
 import csv, os
 
-with open("100MostStreamedSongs.csv") as file:
+with open("100MostStreamedSongs.csv", encoding="utf-8") as file:
   reader = csv.DictReader(file)
   
   for row in reader:
